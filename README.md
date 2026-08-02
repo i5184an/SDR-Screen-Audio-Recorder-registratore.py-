@@ -70,7 +70,7 @@ This project is open-source and free to use for amateur radio enthusiasts and de
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c47bd1f0-ef9f-4f4c-8eae-b3efa4fffd54" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06483b38-1499-462b-ab58-6b1eeb28949e" />
+
 
 
 
